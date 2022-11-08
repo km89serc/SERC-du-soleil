@@ -4,4 +4,4 @@ Your delightful members are:
 . Keith
 . Chris
 . Oksana
-. Anthony
+. Anthony 
